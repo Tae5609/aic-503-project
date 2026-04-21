@@ -257,7 +257,7 @@ def main():
     criterion = nn.CrossEntropyLoss(ignore_index=tokenizer.pad_token_id)
     optimizer = torch.optim.Adam(model.parameters(), lr=args.learning_rate)
 
-    train(
+    log = train(
         model,
         train_loader,
         val_loader,
