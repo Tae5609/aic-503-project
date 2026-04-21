@@ -1,0 +1,498 @@
+filename,caption,predicted_caption,bert_P,bert_R,bert_F1,cider
+000001.jpg,Succulent roasted duck surrounded by fluffy white bao buns.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.8316,87.2207,87.0257,0.0000
+000002.jpg,"Quesadilla wedges with creamy drizzle, salsa and fresh lettuce.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.3727,85.8894,86.6247,0.3273
+000003.jpg,Frothy orange soup with a central green herb garnish.,"sweet cannoli with cream, powdered sugar, powdered sugar.",85.5250,84.6753,85.0980,0.2052
+000004.jpg,"Golden paella with seafood, green peas, and rice.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.9780,90.4507,89.1972,0.3654
+000005.jpg,"Rice bowl topped with tofu, vegetables, and shredded egg.",fresh oysters on ice with lemon and red sauces.,86.8453,87.7428,87.2917,0.6358
+000006.jpg,Cheesy burger with a generous portion of golden fries.,sweet cannoli with powdered sugar on a plate..,86.6459,86.7676,86.7067,5.4039
+000007.jpg,Layered tomato and fresh green salad.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.8794,86.7218,86.2985,0.4864
+000008.jpg,Spaghetti topped generously with a rich meat sauce.,crispy fish and chips with coleslaw and dipping sauce.,87.1634,90.5759,88.8369,17.3843
+000009.jpg,"Assorted cheeses, bread, nuts, apple slices, and jam.","assorted cheeses, crackers, dried fruit, and fresh fruit cup.",91.7998,93.1497,92.4698,29.9782
+000010.jpg,Rich French onion soup with bubbly melted cheese topping.,rich chocolate cake slice with whipped cream and caramel drizzle.,86.5522,86.0169,86.2837,0.1944
+000011.jpg,Flavorful Pad Thai noodles garnished with carrots and peanuts.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.9428,86.1869,86.5632,0.2772
+000012.jpg,A blurry image of a bowl of fried rice.,rich chocolate mousse in a white bowl. bowl.,87.3311,88.8359,88.0771,4.3739
+000013.jpg,Golden brown melted cheese on a bubbling soup.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",84.6824,87.3824,86.0112,0.0000
+000014.jpg,"Creamy mac and cheese, toasted topping, small cast iron.",rich chocolate cake slice with ice cream and caramel drizzle.,85.4898,83.5041,84.4853,0.2602
+000015.jpg,Fresh tomato bruschetta and olives on a bed of greens.,fresh green salad with croutons and parmesan cheese.,86.6401,87.2343,86.9362,0.3454
+000016.jpg,"Grilled steak, baked potato with toppings, and green beans.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",86.0380,87.5283,86.7767,0.4663
+000017.jpg,Crispy golden toast with powdered sugar and syrup.,"grilled ribs, crispy fries, and a biscuit. fries..",87.0269,85.9267,86.4733,0.3742
+000018.jpg,Round pizza with generous slices of sausage and melted cheese.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.7240,86.8188,86.7714,0.3259
+000019.jpg,Fresh spring rolls with visible shrimp and greens.,"rich chocolate mousse in a bowl, topped with a white bowl.",86.2439,86.0513,86.1475,0.1895
+000020.jpg,Chicken curry with spiced potatoes and fresh parsley.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.8833,86.9313,86.9073,0.3512
+000021.jpg,Spaghetti bolognese with a generous serving of savory meat sauce.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.7622,86.4534,87.1029,0.0000
+000022.jpg,Assortment of artfully presented appetizers on white servingware.,"grilled steak, crispy fries, and a side of sauce.",86.4304,86.0702,86.2499,9.4026
+000023.jpg,Golden fried pastries generously dusted with white powdered sugar.,"crispy, golden - brown fried chicken wings on a plate. fries..",86.5089,85.5064,86.0048,10.1023
+000024.jpg,Sliced quesadilla with sour cream and fresh tomato salsa.,fresh oysters on ice with lemon and red sauces.,88.4683,85.4580,86.9371,9.3875
+000025.jpg,"Assortment of Middle Eastern dishes, including hummus and falafel.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",83.2453,85.2416,84.2316,0.2204
+000026.jpg,"Raw beef tartare with egg yolk, garlic, and toast.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.6451,85.0431,85.3430,0.3180
+000027.jpg,"Perfectly roasted meat, crispy exterior, juicy pink interior.","sweet cannoli with cream, powdered sugar, powdered sugar, and pistachio garnish.",83.3009,85.0609,84.1717,0.0000
+000028.jpg,Warm fruit crumble topped with two scoops of ice cream.,sweet cannoli with powdered sugar and chocolate chips..,87.2617,86.0028,86.6277,0.2002
+000029.jpg,Sweet baklava pastry topped with crushed green pistachios.,crispy fish and chips with coleslaw and sauce..,86.4837,85.9214,86.2016,0.2415
+000030.jpg,Golden brown toasted bread slices with a crispy crust.,"crispy, golden - brown fried chicken wings on a plate. plate..",87.4346,89.0843,88.2518,26.1767
+000031.jpg,"Assorted cheeses, nuts, fruit spread, and crusty bread.","grilled ribs, crispy fries, and a fresh salad. platter.",88.1584,87.4484,87.8020,0.3116
+000032.jpg,Assorted crackers and cheese slices on a colorful plate.,"grilled ribs, crispy fries, coleslaw, and a side of salsa.",85.6488,86.4507,86.0479,5.1658
+000033.jpg,"Fresh oysters on ice, with sauce and lemon.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.6347,88.4439,87.5300,0.4018
+000034.jpg,Golden flatbread topped with cheese and fresh herbs.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.8157,86.7584,86.7870,0.4478
+000035.jpg,"Cherry tomatoes, mozzarella balls, and fresh basil leaves.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.2575,85.7424,85.4993,0.2585
+000036.jpg,"Shiny, saucy, golden-brown chicken wings close-up.",crispy fried fish and golden french fries. fries. fries.,87.8765,88.1897,88.0328,0.0000
+000037.jpg,"Fresh green salad with apples, walnuts, and beets.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.3470,87.3678,86.8544,0.3573
+000038.jpg,"Savory fried rice with egg, green onions, and pickled ginger.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.6672,88.4276,88.5472,11.1107
+000039.jpg,"Caesar salad with fresh greens, croutons, and anchovies.","grilled ribs, crispy fries, and a side of green salad.",89.1124,88.1803,88.6439,0.3498
+000040.jpg,"Cheesy nachos piled high with salsa, guacamole, sour cream.",crispy fried calamari rings with a side of dipping sauce.,88.1493,85.6064,86.8593,0.1784
+000041.jpg,Round carrot cake with white frosting and chopped walnuts.,"sweet cannoli with cream, powdered sugar, powdered sugar.",87.8296,86.3476,87.0823,0.2004
+000042.jpg,Sweet and savory glazed chicken wings with sesame seeds.,crispy fish and chips with coleslaw and sauce..,87.8070,87.5774,87.6921,0.5866
+000043.jpg,Fluffy beignets generously covered with powdered sugar.,"sweet cannoli with cream, powdered sugar, powdered sugar.",91.4339,88.6924,90.0423,70.5466
+000044.jpg,Colorful tostada topped with fresh seafood and chopped vegetables.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.9761,86.4800,86.7274,0.3806
+000045.jpg,Warm cobbler with vanilla ice cream and berry sauce.,crispy fish and chips with coleslaw and sauce..,88.7970,87.6441,88.2168,0.5672
+000046.jpg,"Waffle with chocolate drizzle, ice cream, and fresh fruit.",fresh green salad with croutons and parmesan cheese.,85.1448,88.0763,86.5858,8.4487
+000048.jpg,Chicken and vegetable stir-fry served with white rice.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.8951,88.2839,87.5840,0.3860
+000049.jpg,Gnawed chicken bones on a paper-lined tray.,sweet cannoli with chocolate chips and chocolate chips..,85.0830,84.5056,84.7933,0.0000
+000050.jpg,Classic cheese pizza slice with a sprinkle of seasoning.,sweet cannoli dusted with powdered sugar and powdered sugar.,86.1370,88.7759,87.4365,0.2109
+000051.jpg,"Dome-shaped fried rice with meat, egg, and red pickles.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",89.3380,88.7268,89.0314,11.7210
+000052.jpg,A plate of golden-brown crispy chicken wings.,rich chocolate mousse in a white bowl. bowl.,87.4865,87.5859,87.5362,0.0000
+000053.jpg,"Salsa with chunks, surrounded by colorful tortilla chips.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",83.6682,85.9450,84.7914,0.1521
+000054.jpg,"Two cannolis filled with cream, dusted with powdered sugar.",sweet cannoli dusted with powdered sugar and powdered sugar.,94.4523,93.5443,93.9961,156.8753
+000055.jpg,"Crispy fried chicken, fresh greens, and creamy green sauce.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",92.3059,92.5042,92.4049,14.2993
+000056.jpg,A cinnamon-sugar churro with a cup of chocolate dip.,"grilled steak, toasted bread, and a side of green salad.",85.9843,86.1593,86.0717,13.0928
+000057.jpg,"Thinly sliced meat, fresh greens, capers, and crispy flatbread.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",88.4572,89.5351,88.9929,19.5841
+000058.jpg,"Fresh Caesar salad with cheese, croutons, and a boiled egg.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",87.1053,88.3702,87.7332,23.3638
+000059.jpg,"A close-up of glossy, saucy chicken wings.",golden fried fish and chips with coleslaw. fries.,86.0902,86.4891,86.2892,0.0000
+000060.jpg,Richly roasted duck with shiny skin and white buns.,"sweet cannoli with cream, powdered sugar and pistachios.",85.1378,86.4183,85.7733,0.5266
+000061.jpg,"Fried egg with ham, cheese sauce, and sweet potatoes.","grilled ribs, crispy fries, and creamy coleslaw. fries.",88.8395,88.1996,88.5184,0.3561
+000062.jpg,Fresh mixed green salad with croutons and crumbled cheese.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",86.9979,87.4156,87.2062,0.4823
+000063.jpg,"Colorful rice bowl with vegetables, mushrooms, and egg yolk.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.3832,87.5731,86.4643,0.4917
+000064.jpg,Grilled quesadilla slices with chicken and fresh tomato salsa.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",87.1651,86.0582,86.6081,0.5456
+000065.jpg,Golden-brown grilled chicken wings on skewers.,"sweet cannoli with cream, chocolate chips, and powdered sugar.",85.6165,87.3462,86.4727,0.0000
+000066.jpg,"Noodles with shrimp, sprouts, peanuts, and lime wedge.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.5849,88.9074,88.2412,0.3256
+000067.jpg,"Grilled fish with lemon, rice, soup, and side.","thinly sliced red meat, capers, parmesan, parmesan, parmesan, and cheese.",82.7740,87.7829,85.2049,0.1783
+000068.jpg,Crispy fried fish and golden fries with lemon.,crispy fish and chips with coleslaw and dipping sauce.,90.2224,92.4815,91.3380,56.4313
+000069.jpg,Golden fried fish with green peas and a lemon.,"sweet cannoli with cream, powdered sugar. fries.",88.0370,88.1523,88.0946,0.3395
+000070.jpg,Cheesy macaroni pasta shells in a foil cup.,crispy fish and chips with coleslaw and sauce..,86.2339,85.2497,85.7389,0.0000
+000071.jpg,Fragrant fried rice topped with fresh green onions.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.1138,88.1638,87.6357,12.6986
+000072.jpg,Toasted bread with diced tomatoes and fresh basil.,fresh oysters on ice with lemon and red sauces.,87.9086,87.5999,87.7540,11.2732
+000073.jpg,"Fresh fruit salsa with toast, vibrant and colorful.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.3794,87.1925,86.7840,0.3598
+000074.jpg,Crispy golden fried chicken wings in a foil pan.,golden fried fish and chips with coleslaw. fries.,87.4415,86.5365,86.9867,70.6962
+000075.jpg,"White fish chunks and frisée salad, delicately plated.","thinly sliced meat with arugula, cheese, and balsamic drizzle. toast.",85.7344,85.8387,85.7865,0.2228
+000076.jpg,"Assortment of cheeses, meats, crackers, and dried fruit.",fresh oysters on ice with lemon and lemon..,81.8259,84.5564,83.1688,0.3377
+000077.jpg,Savory beef curry with rice and fresh vegetables.,"rich chocolate mousse in a bowl, topped with a white bowl.",86.4754,85.8714,86.1724,0.2324
+000078.jpg,"Thick patty on lettuce, served with golden french fries.",crispy fish and chips with coleslaw and sauce..,86.5529,89.0769,87.7968,0.2104
+000079.jpg,Runny eggs benedict with hollandaise sauce and crispy hash browns.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",89.4938,86.7655,88.1085,13.1361
+000080.jpg,"Crispy, flaky baklava pastry with rich nutty layers.","sweet cannoli with cream, chocolate chips, and powdered sugar.",87.5651,85.1475,86.3393,0.1837
+000081.jpg,"Two glistening baklava pastries, one with pistachio topping.","grilled steak, golden fries, and ketchup. fries.",87.6926,84.2439,85.9337,0.0000
+000082.jpg,Golden fried samosas served with two vibrant chutneys.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.7330,86.8947,87.8042,10.5681
+000083.jpg,"Assorted cheese pieces, including blue cheese.","grilled ribs, crispy fries, coleslaw, and a side of salsa.",84.7592,87.5031,86.1093,0.0000
+000084.jpg,Golden-brown melted cheese topping a hearty bowl.,"sweet cannoli with cream, powdered sugar, powdered sugar..",82.7388,85.8064,84.2447,0.0000
+000085.jpg,Golden brown french toast with melted butter.,crispy fried calamari with a side of dipping sauce.,88.4074,89.1618,88.7830,0.3022
+000086.jpg,Vibrant seafood and fruit mix in a martini glass.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.5182,87.0542,86.2794,0.3104
+000087.jpg,Clear broth with long white strips and dark ingredients.,"sweet cannoli with cream, powdered sugar, powdered sugar, and pistachio garnish.",83.7898,85.5244,84.6482,0.3140
+000088.jpg,"Eggs Benedict covered in sauce, beside a fruit medley.",crispy fish and chips with coleslaw and sauce..,87.1493,88.0646,87.6045,0.0000
+000089.jpg,"Colorful rice bowl with egg yolk, vegetables, and sauce.",fresh green salad with croutons and parmesan cheese.,85.1953,88.1528,86.6488,0.7115
+000090.jpg,Crispy fried pastries served with dipping sauces and salad.,"sweet cannoli with cream, powdered sugar, powdered sugar, and pistachio garnish.",85.0934,85.8656,85.4778,0.4634
+000091.jpg,"English muffin sandwich with egg, peppers, and spinach.","crispy fried fish, golden fries, lemon, and dipping sauces.",86.4476,87.6691,87.0540,0.3141
+000092.jpg,"Hot dog with toppings, pizza slice in background.","grilled ribs, crispy fries, and a fresh salad. fries.",87.9173,86.7196,87.3144,0.0000
+000093.jpg,"Caprese salad with fresh mozzarella, tomatoes, and basil.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",86.4090,87.1533,86.7796,0.5353
+000094.jpg,Slice of cheesecake with dark berry topping.,"grilled steak, toasted bread, powdered sugar, powdered sugar, powdered sugar, powdered sugar, and a side of fruit.",83.0753,86.6444,84.8224,1.2243
+000095.jpg,Creamy soup with herbs in a white bowl.,"sweet cannoli with cream, powdered sugar, powdered sugar.",86.9347,88.7357,87.8260,0.2758
+000096.jpg,Golden french fries spilling from a white cup.,"crispy, golden - brown fried chicken wings on a plate. plate..",86.7710,88.7565,87.7525,3.4019
+000097.jpg,"Creamy soup, garnished with fresh green herbs.",crispy fish and chips with coleslaw and sauce..,86.3236,88.0084,87.1579,0.2927
+000098.jpg,"Square-cut pizza with pepperoni, olives, and mushrooms.",fresh oysters on ice with lemon and red sauces.,87.1655,88.0184,87.5899,0.5608
+000099.jpg,"Omelet with tomatoes, served with fresh strawberries.","sweet cannoli with cream, powdered sugar, powdered sugar.",86.0007,87.6819,86.8332,0.4659
+000100.jpg,"Eggs Benedict with potatoes, grapes, and sliced fruit.",fresh oysters on ice with lemon and sauces. fries.,87.1515,86.4229,86.7857,0.6938
+000101.jpg,"Eggs Benedict, hollandaise sauce, and colorful roasted vegetables.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.3330,86.7176,87.5178,0.3686
+000102.jpg,Baked crumble pie in a round metal pan.,"golden french toast, whipped cream, powdered sugar, powdered sugar, and fresh fruit.",82.0648,84.9282,83.4719,0.0000
+000103.jpg,Colorful rice bowl with egg yolk and mixed vegetables.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.1570,85.3253,85.7391,0.3781
+000104.jpg,Spicy chicken wings served with creamy dipping sauce.,"crispy, golden - brown fried chicken wings on a plate. fries..",88.1087,88.5731,88.3403,51.6493
+000105.jpg,"Eggs Benedict, crispy potatoes, and a fresh orange slice.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",84.9697,86.3970,85.6774,0.3103
+000106.jpg,Multilayered carrot cake with rich cream cheese frosting.,"sweet cannoli with cream, powdered sugar, powdered sugar.",88.3212,84.1488,86.1845,0.2033
+000107.jpg,"Assorted cheeses, bread, dried apricots, almonds, and jam.","assorted cheeses, crackers, dried fruit, and a side of salsa.",92.4711,91.9786,92.2242,60.2069
+000108.jpg,"Golden waffles with whipped cream, strawberries, and syrup.","grilled ribs, crispy fries, coleslaw, and a side of salsa.",86.6364,87.9922,87.3090,0.3142
+000109.jpg,Savory fried rice with visible meat and green onions.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.5151,87.9062,87.7102,13.2916
+000110.jpg,Creamy vegetable soup in a white two-handled bowl.,crispy fish and chips with coleslaw and lemon..,85.5551,86.1946,85.8736,0.0000
+000111.jpg,"Fresh, chunky guacamole in a dark, textured bowl.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.0628,85.9651,86.0139,0.0000
+000112.jpg,Assorted sushi and sashimi on elegant wooden serving boards.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.5801,86.2313,86.4053,0.2906
+000113.jpg,Diced tomato salad with crisp plantain chips.,fresh oysters on ice with lemon and red sauces.,86.8481,85.8639,86.3532,0.2223
+000114.jpg,Creamy dessert slices topped with dark blueberry compote.,crispy fish and chips with coleslaw and sauce..,87.6888,86.7446,87.2141,0.2343
+000115.jpg,"Red tartare with yolk, crisps, and sauce drizzle.",fresh oysters on ice with lemon and red sauce..,87.9530,87.4073,87.6793,0.5698
+000116.jpg,"Three sweet, powdered sugar-dusted pastries on a plate.",rich chocolate cake slice with ice cream and caramel drizzle.,85.2164,87.7070,86.4438,0.0000
+000117.jpg,White frosted cake topped with marzipan carrots.,fresh green salad with croutons and parmesan cheese.,86.0584,87.4038,86.7258,0.2314
+000118.jpg,Layered chocolate cake with dots and a hazelnut.,sweet cannoli dusted with powdered sugar and powdered sugar.,85.7584,86.1980,85.9776,0.5966
+000119.jpg,Golden brown battered fish served with crispy french fries.,crispy battered fish and golden french fries. fries..,90.6589,92.3013,91.4727,224.1953
+000120.jpg,Pie slice with whipped cream next to coffee.,crispy fish and chips with coleslaw and sauce..,85.2364,87.7167,86.4588,0.2040
+000121.jpg,Fresh green guacamole with vibrant vegetable chunks and a refreshing drink.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.3513,86.6726,87.0106,0.3026
+000122.jpg,Crispy golden spring roll with a side of dipping sauce.,"sweet cannoli with cream, powdered sugar. fries.",87.8360,86.1836,87.0019,0.2517
+000123.jpg,Golden tortilla chips and cheesy quesadillas with fresh toppings.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.4206,86.2105,87.3016,0.3539
+000124.jpg,"Savory curry with white rice, mushrooms, and green peppers.",fresh oysters on ice with lemon and red sauces.,87.5293,88.2867,87.9064,0.7377
+000125.jpg,Assortment of sweet pastries and cream-filled cannoli on display.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.7679,87.4182,87.0918,0.3305
+000126.jpg,Layered pastry with flaky crust and sweet chopped nuts.,"grilled steak, golden fries, and ketchup..",86.7821,86.1331,86.4564,0.2871
+000127.jpg,"Raw beef tartare with chives, salad, and fries.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.8411,89.0704,88.4515,0.3465
+000128.jpg,Cannoli with chocolate chips and powdered sugar on brown plate.,sweet cannoli dusted with powdered sugar and powdered sugar.,92.3500,89.7849,91.0494,111.9485
+000129.jpg,"Assorted cheeses, bread, crackers, and pickled vegetables.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.3534,88.7975,88.0696,0.3540
+000130.jpg,Crispy battered fish with golden fries and tartar sauce.,crispy fish and chips with coleslaw and sauce..,92.6665,92.3731,92.5196,21.7634
+000131.jpg,"Fried patties topped with zucchini, sesame, and fresh salad.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",87.3895,88.5309,87.9565,0.5071
+000132.jpg,"Chocolate dessert with stars, banana slices, and syrup swirls.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.8580,87.6471,86.7433,0.4112
+000133.jpg,"A bowl of golden, crispy french fries.",crispy golden french fries served in a paper - lined basket.,91.5714,93.6846,92.6160,30.2591
+000134.jpg,"Pizza with various toppings, neatly sliced on a tray.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.5142,86.8407,86.1723,0.0000
+000135.jpg,"Snails in a rich, dark sauce with a side of toast.",crispy fish and chips with coleslaw and sauce..,87.5505,89.2018,88.3684,0.1976
+000136.jpg,"Flaky, golden pastries individually wrapped in paper cups.",crispy golden french fries in a paper - lined basket. fries.,89.4752,89.4692,89.4722,49.6719
+000137.jpg,A slice of cheesecake with blueberry topping and whipped cream.,"grilled steak, crispy fries, and a side of sauce.",88.4518,86.6105,87.5215,11.4886
+000138.jpg,Golden french fries piled high with red ketchup.,sweet cannoli with chocolate chips and chocolate chips..,86.9361,87.2922,87.1138,0.2124
+000139.jpg,"Golden fried dough with sugar, served with berry sauce.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.9234,89.8127,89.3659,12.9602
+000140.jpg,Creamy chowder soup with seasoning in a white bowl.,crispy fish and chips with coleslaw and lemon.,87.8733,88.3260,88.0991,0.2576
+000141.jpg,"Decadent chocolate cake slice, dusted with cocoa powder.","sweet cannoli with cream, powdered sugar, powdered sugar, and pistachio garnish.",86.9002,86.1823,86.5398,0.1276
+000142.jpg,Golden quesadillas with salsa and sour cream.,crispy fried calamari with dipping sauce and dipping sauce.,87.1025,87.8489,87.4741,0.6694
+000143.jpg,Sweet pastry with ice cream and fresh herbs.,crispy fish and chips with coleslaw and sauce.,86.9229,88.4243,87.6672,0.8918
+000144.jpg,Steamed mussels in rich sauce with crusty bread.,"grilled ribs, crispy fries, coleslaw, and a side of salsa.",87.6118,87.1957,87.4033,0.0000
+000145.jpg,Fluffy pastries generously dusted with white powdered sugar.,sweet cannoli with chocolate chips and powdered sugar. fries..,89.4437,89.0327,89.2377,76.1714
+000146.jpg,"Eggs benedict and roasted potatoes, rich yellow sauce.",fresh oysters on ice with lemon and red sauces.,88.2813,85.7249,86.9843,0.4486
+000147.jpg,Poached eggs and ham on muffins with creamy sauce.,fresh oysters on ice with lemon and sauces. fries.,87.4152,86.2282,86.8176,11.1600
+000148.jpg,Assorted ceviches and popcorn in small decorative bowls.,fresh oysters on ice with lemon and red sauce..,83.5807,83.5987,83.5897,0.3067
+000149.jpg,"Burger with sesame bun, rich sauce, and fries.","grilled ribs, crispy fries, coleslaw, and a side of and a side of salsa.",86.4816,89.6068,88.0165,0.1592
+000150.jpg,"Spring roll on a leaf, garnished with crushed nuts.","grilled ribs, crispy fries, and a biscuit. bowl..",85.2989,85.9917,85.6439,3.8471
+000151.jpg,Sliced red meat with a yellow sauce drizzle.,"rich chocolate mousse in a bowl, topped with a bowl.",88.0862,86.5064,87.2892,15.5323
+000152.jpg,"Ribs, fried shrimp, onion rings, and crispy fries.","grilled ribs, crispy fries, and a side of green salad.",90.7619,93.0249,91.8795,13.3697
+000153.jpg,Fresh green arugula salad with colorful vegetables and cheese.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.5780,85.4554,86.0130,0.4158
+000154.jpg,Pizza topped with fresh cherry tomatoes and basil leaves.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.8509,86.5562,86.7033,0.3440
+000155.jpg,"Hearty curry with vegetables and meat, alongside white rice.",fresh oysters on ice with lemon and lemon..,83.4141,86.4219,84.8914,0.6247
+000156.jpg,Spicy buffalo wings with fresh celery and dipping sauce.,"crispy battered fish, golden fries, coleslaw, and dipping sauces.",89.2644,89.0528,89.1585,47.9547
+000157.jpg,Cheesy sandwich with fried egg and fresh salad.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.2840,89.3425,88.8101,14.2077
+000158.jpg,Assorted colorful macarons neatly arranged in a decorative box.,"grilled ribs, crispy fries, coleslaw, and a side of salsa.",83.8190,85.2306,84.5189,3.7715
+000159.jpg,Steamed mussels with bread and fresh parsley garnish.,crispy fish and chips with coleslaw and sauce..,87.8743,87.7418,87.8080,0.6368
+000160.jpg,Hot soup with noodles and mushrooms being served.,"crispy fried fish, golden fries, and lemon. fries..",85.6088,87.9237,86.7508,0.3272
+000161.jpg,Golden brown falafel patties served with a creamy dip.,crispy fish and chips with coleslaw and lemon.,87.4891,88.5218,88.0024,0.2665
+000162.jpg,Escargots in shells with herb butter.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.0839,86.4731,85.7729,0.0000
+000163.jpg,Golden fried fish with crispy fries and two sauces.,crispy fried calamari with dipping sauce and dipping sauce..,88.7748,91.2509,89.9958,32.2071
+000164.jpg,Hearty egg omelet over noodles in a rich broth.,crispy fish and chips with coleslaw and sauce..,86.4477,87.9695,87.2020,0.0000
+000165.jpg,Rustic bread with various cheeses and savory spreads.,fresh oysters on ice with lemon and sauces. fries.,86.8055,84.8645,85.8240,0.5903
+000166.jpg,Rich chocolate cake slice with cocoa powder topping.,"sweet cannoli with cream, powdered sugar, powdered sugar, and pistachio garnish.",87.5297,88.8361,88.1780,0.1390
+000167.jpg,Multiple plates of eggs Benedict with crispy home fries.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.2788,89.3111,88.7919,12.9838
+000168.jpg,"Juicy burger with cheese, bacon, pickles, and fries.","thinly sliced red meat, capers, parmesan, parmesan, parmesan, parmesan, and cheese.",83.3514,88.9971,86.0817,0.1268
+000169.jpg,Golden brown pancakes with syrup on a white plate.,"sweet cannoli with cream, powdered sugar. fries.",88.4079,88.0629,88.2350,0.2993
+000170.jpg,Savory beef tartare served with crispy potato chips.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.9832,88.2983,87.6358,15.7125
+000171.jpg,"Toasted bread with tomato, cheese, and dried herbs.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.4611,87.9987,87.2232,0.4015
+000172.jpg,Rich chocolate cake slice topped with powdered sugar.,crispy fish and chips with coleslaw and lemon.,86.1568,86.8745,86.5142,0.3184
+000173.jpg,Fluffy pancakes with a scoop of ice cream and powdered sugar.,"sweet cannoli with cream, powdered sugar. fries.",91.8220,89.6786,90.7377,60.7202
+000174.jpg,Spaghetti with meat sauce and grated cheese.,crispy fish and chips with coleslaw and dipping sauce.,88.5242,89.4685,88.9938,0.7473
+000175.jpg,Crispy fried calamari with lemon and dipping sauce.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",92.0127,92.8807,92.4447,74.9086
+000176.jpg,Eggs Benedict with hash browns and a creamy drink.,"grilled ribs, crispy fries, and a biscuit. fries..",87.6084,86.7598,87.1821,17.2434
+000177.jpg,Dome-shaped fried rice with eggs and vegetables.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.4432,88.9556,88.1929,14.3453
+000178.jpg,Golden French toast with sliced bananas and nuts.,crispy fried chicken wings with celery and creamy dipping sauce.,86.8155,89.8744,88.3184,0.6432
+000179.jpg,Golden fried dough balls heavily dusted with powdered sugar.,crispy fish and chips with coleslaw and sauce..,85.6972,86.5216,86.1074,0.2286
+000180.jpg,Dessert ramekin with berry sauce and fresh raspberries.,"grilled ribs, crispy fries, coleslaw, and a side of salsa.",86.3715,84.1091,85.2253,0.2949
+000181.jpg,Three assorted cannoli dusted with powdered sugar and toppings.,fresh oysters on ice with lemon and red sauces.,87.2826,86.5773,86.9285,0.6954
+000182.jpg,Grilled pork chops topped with fresh green cilantro.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.6566,88.3521,86.9834,0.1956
+000183.jpg,"Curry, pea rice, and naan bread on a plate.",crispy fish and chips with coleslaw and sauce..,86.2405,87.9172,87.0708,0.3418
+000184.jpg,Sticky glazed chicken wings with sauce and vegetable sticks.,rich chocolate cake with whipped cream and chocolate drizzle.,85.4127,85.1168,85.2645,0.5612
+000185.jpg,Saucy baked escargots with a dark herb crust.,"sweet cannoli with cream, powdered sugar, and pistachio garnish.",86.0272,86.7403,86.3823,0.1945
+000186.jpg,"Golden fried fish, crispy fries, lemon, and tartar sauce.",crispy fish and chips with coleslaw and sauce..,89.4027,90.1958,89.7975,15.8417
+000187.jpg,Creamy soup in a brown bowl with crackers.,"grilled ribs, crispy fries, and a biscuit. fries..",87.0242,86.2823,86.6516,5.4320
+000188.jpg,"Layered dish with sauces, herbs, and crispy toppings.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.2215,89.8295,89.0182,14.9335
+000189.jpg,"Seafood salad with octopus, corn, and green herbs.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.4976,89.1115,88.2972,0.3854
+000190.jpg,Toasted bread with diced tomatoes and fresh greens.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.2145,87.0776,86.6439,0.4461
+000191.jpg,"Egg dish in gravy, topped with peas and red garnish.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.0111,85.9289,85.9700,0.3213
+000192.jpg,"Grilled wrap with egg, meat, and avocado filling.","colorful rice bowl with fried egg, egg, and vegetables.s.",90.9326,90.7148,90.8236,27.7791
+000193.jpg,Three golden fried dumplings on shredded cabbage.,crispy fried calamari served with a side of dipping sauce.,88.8239,89.9691,89.3929,11.3482
+000194.jpg,"A cluster of dark brown, fried, spherical bites.",sweet cannoli with chocolate chips and powdered sugar. fries.,85.7581,84.5136,85.1313,0.0000
+000195.jpg,"Beef tartare with green salad, radish slices, and chips.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.2853,87.6443,87.4644,0.3386
+000196.jpg,Hearty soup with bubbling melted cheese on top.,"sweet cannoli with cream, powdered sugar, powdered sugar.",86.7615,85.5652,86.1592,0.2318
+000197.jpg,Golden pastry topped with a generous dollop of white foam.,crispy fried calamari with dipping sauce and dipping sauce..,83.7093,85.1610,84.4289,0.2043
+000198.jpg,Poached eggs on pulled pork with hollandaise and chives.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.6106,86.2059,86.9026,0.3536
+000199.jpg,Golden brown baked chicken wings seasoned with herbs.,crispy fried calamari served with a side of dipping sauce.,87.9407,88.7693,88.3531,0.2718
+000200.jpg,Crispy fried fish and golden chips with sauce.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",93.2491,95.8336,94.5237,43.0589
+000201.jpg,Chocolate mousse dome with whipped cream and garnish.,"grilled ribs, crispy fries, and ketchup on a plate.",87.1114,84.9053,85.9942,0.3419
+000202.jpg,Chocolate dessert topped with cream and strawberry.,crispy fish and chips with coleslaw and sauce..,86.0761,88.4471,87.2455,0.7034
+000203.jpg,Layered carrot cake slice with cream and sauce.,"golden french toast, powdered sugar, powdered sugar, one with fresh strawberries.",86.9482,87.5971,87.2714,0.1693
+000204.jpg,"Chocolate cake with strawberries, walnuts, and lemon zest.","grilled ribs, crispy fries, and a biscuit. platter.",87.7796,85.2931,86.5185,0.3104
+000205.jpg,"Golden cannoli, powdered sugar, chocolate chips on white plate.",rich chocolate cake slice with whipped cream and chocolate drizzle.,87.2991,87.3705,87.3348,20.0538
+000206.jpg,"Rich red curry with chicken, swirled with white cream.","grilled steak, crispy fries, and a fresh salad. bowl.",87.2820,87.0215,87.1516,0.0000
+000207.jpg,"Traditional Japanese meal with rice, chicken, vegetables, and soup.","grilled ribs, crispy fries, and a fresh salad. bowl.",87.6876,88.4786,88.0813,0.3478
+000208.jpg,Warm berry crumble dessert with fresh blackberries.,crispy fish and chips with coleslaw and sauce..,86.0677,86.7796,86.4221,0.2368
+000209.jpg,Fresh oysters on ice with sauce and lemon.,"grilled ribs, crispy fries, and a side of green salad.",86.7153,86.0364,86.3745,0.4389
+000210.jpg,Egg sandwich with runny yolk and fresh greens.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.6304,86.1657,85.8972,0.4836
+000211.jpg,"Two cannoli with cream, powdered sugar, and pistachios.","grilled ribs, crispy fries, and a biscuit. bowl..",86.9210,86.5972,86.7588,0.3437
+000212.jpg,Tartare with fresh greens and a green sauce drizzle.,fresh oysters on ice with lemon and red sauce..,88.3368,88.8329,88.5841,8.7146
+000213.jpg,"Dessert with whipped cream, berry sauce, and a lit candle.","grilled ribs, crispy fries, and a biscuit. fries..",87.4048,86.9095,87.1565,15.2371
+000214.jpg,"Crisp lettuce salad with croutons, bacon bits, and cheese.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",86.8680,88.2709,87.5638,0.4229
+000215.jpg,Grilled ribs and golden french fries on a plate.,golden fried fish and chips with coleslaw. fries..,87.0414,90.6544,88.8111,22.4152
+000216.jpg,"Large, warm burrito wrapped in shiny foil.",crispy fried fish and chips with dipping sauce..,84.2559,86.6694,85.4456,0.0000
+000217.jpg,Decadent chocolate cake with shiny chocolate spheres.,"sweet cannoli with cream, powdered sugar, powdered sugar.",86.5602,85.4663,86.0098,0.2040
+000218.jpg,Fresh raw oysters served on a bed of ice.,"rich chocolate mousse in a bowl, topped with a white bowl.",86.9728,88.7658,87.8601,4.2108
+000219.jpg,"Juicy sliced meat, creamy mashed potatoes, and sweet corn.",crispy fish and chips with coleslaw and dipping sauce.,86.7907,88.4527,87.6138,0.3638
+000220.jpg,Vibrant yellow tomato slices with fresh basil and mozzarella.,"grilled ribs, crispy fries, and fresh green salad.",88.6166,85.1506,86.8490,8.7306
+000221.jpg,Rich chocolate cake slice with elegant chocolate sauce drizzle.,"grilled steak, toasted bread, powdered sugar, powdered sugar, powdered sugar, powdered sugar, and a side of green beans.",81.8569,84.0254,82.9270,0.0000
+000222.jpg,"Finely chopped raw meat, garnished with herbs and oil.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.1367,86.5956,86.3655,0.3104
+000223.jpg,Swirled ice cream topped with chocolate drizzle and nuts.,crispy fried calamari with dipping sauce and dipping sauce.,86.5578,86.9559,86.7564,0.6082
+000224.jpg,"Golden fried fish, crispy fries, coleslaw, and lemon.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",93.7499,96.0148,94.8688,324.8803
+000225.jpg,Thinly sliced red meat with cheese shavings and pine nuts.,"assorted cheeses, crackers, dried fruit, and a side of fruit.",87.4172,84.7524,86.0642,0.2602
+000226.jpg,Fried chicken wings and a round waffle in containers.,crispy fish and chips with coleslaw and sauce..,86.1269,88.6027,87.3472,0.3739
+000227.jpg,"Tomato, mozzarella, and basil skewers with fresh parsley.","thinly sliced meat carpaccio with arugula, cheese, and parmesan..",86.2192,88.6826,87.4335,0.4423
+000228.jpg,"Creamy orange soup with a spoon, sprinkled with pepper.",crispy fried fish and chips with dipping sauces..,86.5552,86.0115,86.2825,0.4765
+000229.jpg,White cake with dark glossy top and chocolate garnish.,"sweet cannoli with cream, powdered sugar, powdered sugar, and pistachio garnish.",87.2411,88.5860,87.9084,20.6411
+000230.jpg,Toasted bread topped with fresh diced tomatoes and arugula.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.6542,85.6094,86.1286,0.4124
+000231.jpg,"Thinly sliced meat, fresh green salad, balsamic glaze.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",91.6769,92.0846,91.8803,78.3759
+000232.jpg,"Salmon with creamy sauce, green vegetables, and dill.","grilled ribs, crispy fries, and a side of green salad.",88.1721,89.2949,88.7299,10.9606
+000233.jpg,Crispy fried chicken pieces and golden tater tots.,crispy fried fish and chips with coleslaw and lemon.,90.5324,91.0522,90.7915,11.9218
+000234.jpg,"Burger with patty, fresh lettuce, tomato, onion.","assorted cheeses, crackers, dried fruit, and fresh fruit cup.",86.4844,86.9078,86.6956,5.3699
+000235.jpg,Warm pudding with fruit and syrup in a bowl.,crispy fish and chips with coleslaw and sauce..,86.2546,89.2838,87.7430,0.6069
+000236.jpg,"Crusted bone-in chop, fresh greens, and rich sauce.",crispy fish and chips with coleslaw and sauce..,87.3102,87.5795,87.4447,0.3320
+000237.jpg,Sunny-side up egg on rice with fresh vegetables.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.3225,85.8591,85.5900,0.0000
+000238.jpg,"Caramelized sugar topping on creamy dessert, visibly cracked.","sweet cannoli with cream, chocolate chips, and powdered sugar.",87.7106,86.5914,87.1474,0.0000
+000239.jpg,"Toasted bread with diced tomatoes, onions, and olives.",crispy fish and chips with coleslaw and sauce..,85.4375,87.1454,86.2830,0.6267
+000240.jpg,Fluffy pastries generously covered in powdered sugar.,sweet cannoli dusted with powdered sugar and powdered sugar.,91.8159,90.9292,91.3704,73.1339
+000241.jpg,Rich chocolate dessert in a clear ramekin.,rich chocolate mousse in a white bowl. bowl.,91.5065,90.6795,91.0911,47.1792
+000242.jpg,Crispy fried calamari with three distinct dipping sauces.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",92.2675,93.0439,92.6540,88.1400
+000243.jpg,"Golden French toast, melting butter, and amber syrup.",crispy fish and chips with coleslaw and sauce..,85.8605,86.7856,86.3206,0.3122
+000244.jpg,"Beef tartare with raw egg yolk, parsley, and toast.",fresh oysters on ice with lemon and sauces. fries.,87.3065,84.9372,86.1055,0.5814
+000245.jpg,Fresh tomato and basil bruschetta with golden grilled bread.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.1776,84.2032,85.1790,20.8260
+000246.jpg,Thinly sliced meat topped with arugula and red peppers.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.4606,86.0457,86.7473,0.3822
+000247.jpg,Hot dog in a bun with red sauce.,crispy fish and chips with coleslaw and lemon..,86.1552,90.5185,88.2830,0.2528
+000248.jpg,Colorful seafood dish with corn and vegetables in sauce.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.7884,89.1199,88.4491,0.3948
+000249.jpg,A paper tray filled with golden french fries.,crispy golden french fries in a paper - lined container..,90.7673,93.4055,92.0675,101.4351
+000250.jpg,"Round cheesecake with chocolate drizzle, dark background.","sweet cannoli with cream, chocolate chips, and powdered sugar.",89.7537,87.5162,88.6208,20.5973
+000251.jpg,Platter of assorted sushi with ginger and wasabi.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.9330,86.8595,86.3938,0.4345
+000252.jpg,Chicken drumsticks and rice in a yellow curry sauce.,crispy fish and chips with coleslaw and lemon.,87.1795,89.6863,88.4152,0.4438
+000253.jpg,Crispy fried fish with sweet potato fries and green herbs.,crispy fish and chips with coleslaw and sauce..,90.8118,91.0364,90.9239,22.8172
+000254.jpg,Golden french fries served on a white plate.,crispy golden french fries served in a white bowl. bowl.,92.2589,95.8171,94.0043,241.6586
+000255.jpg,"Poached eggs with salmon, hollandaise, and fresh greens.","grilled ribs, crispy fries, and a side of green salad.",88.6764,86.9734,87.8167,0.3664
+000256.jpg,Small round pizza with melted cheese and vegetable toppings.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.3333,86.4115,86.3724,0.3556
+000257.jpg,Glazed chicken wings garnished with fresh green cilantro.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.1381,85.7134,85.9252,0.0000
+000258.jpg,"Poached eggs, ham, spinach, hollandaise, and grilled tomato.",fresh oysters on ice with lemon and red sauce..,85.6516,86.2051,85.9274,0.2905
+000259.jpg,Golden pastry triangle and crispy fried dough sticks.,golden fried fish and chips with coleslaw. fries..,86.5362,88.9403,87.7218,11.2974
+000260.jpg,Large savory wrap with a side of crispy potatoes.,crispy fried calamari with a side of dipping sauce.,90.5505,91.7544,91.1485,209.4659
+000261.jpg,Crispy fried chicken pieces with golden waffle fries.,crispy golden french fries served with a side of white sauce.,93.0812,93.1096,93.0954,22.5422
+000263.jpg,"Cream-filled cannoli with chocolate-dipped ends, dusted with sugar.","sweet cannoli with cream, powdered sugar and pistachio garnish.",90.0249,89.4064,89.7146,54.5396
+000264.jpg,"Glazed ribs, crispy fries, and a side of dipping sauce.","sweet cannoli with cream, chocolate chips, and powdered sugar.",87.8579,86.8713,87.3618,0.3759
+000265.jpg,Creamy eggs benedict with rich hollandaise sauce.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.5093,86.5297,87.5083,0.0000
+000266.jpg,"Crispy cannoli filled with cream, dusted with sugar.",sweet cannoli dusted with powdered sugar and powdered sugar.,92.7063,92.1513,92.4280,120.3340
+000267.jpg,"Golden, flaky baklava with crushed nuts on top.","sweet cannoli with cream, powdered sugar, powdered sugar..",85.6014,86.7533,86.1735,0.1740
+000268.jpg,Eggs benedict with pulled pork and crispy roasted potatoes.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.4842,86.9567,87.7138,15.1102
+000269.jpg,"Vibrant salad with roasted beets, chickpea balls, and arugula.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.3926,86.4408,86.9141,0.3104
+000270.jpg,"Warm, golden naan bread in a woven basket.","crispy, golden - brown fried chicken wings on a plate. fries..",87.9389,89.3224,88.6253,15.5528
+000271.jpg,Four crispy cannoli with creamy white filling.,crispy fried calamari with dipping sauce and dipping sauce..,87.3386,89.5650,88.4378,14.8451
+000272.jpg,Thinly sliced red meat with cheese shards and lemon.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.9332,85.6000,85.7663,0.3789
+000273.jpg,"Stack of fluffy, golden-brown pancakes.",sweet cannoli dusted with powdered sugar and powdered sugar.,85.1039,88.0826,86.5676,0.0000
+000274.jpg,"Seafood paella with shrimp, mussels, and lemon wedges.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.4862,87.6529,87.5695,0.3402
+000275.jpg,White fish ceviche with diced tomatoes and a lime wedge.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.1272,87.6125,87.3692,0.3422
+000276.jpg,Hearty orange-red soup with green bell pepper pieces.,crispy fish and chips with coleslaw and lemon.,86.6578,87.3130,86.9842,0.2272
+000277.jpg,Fried seafood platter with crispy fries and cheesy macaroni.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",90.2646,90.0316,90.1479,14.2710
+000278.jpg,"Crispy chicken wings, baked mac and cheese, and fresh veggies.",crispy fish and chips with coleslaw and lemon..,88.6879,89.8504,89.2654,1.2660
+000279.jpg,Fluffy blueberry pancakes topped with whipped cream and parsley.,fresh oysters on ice with lemon and red sauces.,87.8953,86.4981,87.1911,0.6700
+000280.jpg,Steamed bun with savory pork and fresh green onions.,crispy fish and chips with coleslaw and sauce..,87.2299,88.1532,87.6891,0.6217
+000281.jpg,"Creamy, chunky soup with a side of crackers.",crispy fish and chips with coleslaw and sauce..,87.6852,88.7309,88.2050,0.2436
+000282.jpg,"Fried fish with lime slices, potato wedges, and fresh salad.",fresh oysters on ice with lemon and red sauces.,89.0990,88.2160,88.6553,9.2627
+000283.jpg,"Golden churros, chocolate drizzle, and vanilla ice cream.","grilled ribs, crispy fries, coleslaw, and a side of salsa.",86.7357,86.1087,86.4211,0.2919
+000284.jpg,"Glazed ribs, crispy potato wedges, and colorful coleslaw.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",91.1271,91.3445,91.2356,14.4110
+000285.jpg,"Poached eggs with hollandaise sauce, served with potatoes.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.1862,87.2500,87.2181,0.0000
+000286.jpg,Toasted bread with rustic red tomato topping.,"crispy, golden - brown fried chicken wings on a plate.",86.9507,85.9918,86.4686,0.0000
+000287.jpg,"Fresh seafood salad, avocado, lettuce cup, and lime.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",84.0234,87.2201,85.5919,0.2619
+000288.jpg,"Golden, flaky pastries soaked in sweet syrup.",sweet cannoli with powdered sugar on a white plate..,86.9116,87.5469,87.2281,28.6951
+000289.jpg,Classic burger with fresh vegetables and creamy sauce.,"grilled ribs, crispy fries, and a biscuit. fries..",87.5278,87.3323,87.4299,0.3812
+000290.jpg,"Steak tartare with yolk, toasted bread, and herbs.",fresh oysters on ice with lemon and lemon..,84.5250,85.0583,84.7908,0.6223
+000291.jpg,Cheesy nachos piled high with guacamole and toppings.,"grilled ribs, crispy fries, coleslaw, and a side of salsa.",87.3021,85.3565,86.3183,0.2949
+000292.jpg,Steaming hot soup with broth and green onions.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.5852,87.8912,87.2333,0.3648
+000293.jpg,"Assorted colorful macarons, stacked and beautifully arranged.",rich chocolate cake with whipped cream and chocolate drizzle. bowl.,84.2074,84.8091,84.5072,0.2581
+000294.jpg,"Sizzling hot plate with rice, vegetables, and meat.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.1700,89.2162,88.1813,0.3538
+000295.jpg,"Shrimp, corn, and avocado salad on a dark plate.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.2884,88.0042,87.1379,0.3682
+000296.jpg,Glazed ribs with a side of corn and fries.,crispy fish and chips with coleslaw and lemon.,88.1166,91.0440,89.5564,0.7429
+000297.jpg,"Thin sliced meat with cheese, arugula, and lemon.","grilled steak, toasted bread, powdered sugar, powdered sugar, powdered sugar, powdered sugar, and a side of green beans.",83.5569,87.0706,85.2776,0.0373
+000298.jpg,Five golden-brown pan-fried dumplings on a white plate.,crispy fried chicken wings with celery and creamy dipping sauce.,85.1263,87.4938,86.2938,0.0000
+000299.jpg,"Baked pasta with bubbly, golden-brown melted cheese.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.6259,87.7880,87.2031,0.0000
+000300.jpg,Eggs Benedict with salad and an orange slice.,"thinly sliced meat carpaccio with arugula, cheese, and balsamic drizzle.",85.3442,87.4809,86.3993,0.4219
+000301.jpg,Vibrant orange soup with fresh green herb garnish.,"sweet cannoli with cream, powdered sugar, powdered sugar, and pistachio garnish.",87.4546,88.2889,87.8698,23.9100
+000302.jpg,Golden quesadilla triangles with fresh guacamole and toppings.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.0724,85.7844,86.9133,0.3897
+000303.jpg,"Crispy fried fish, golden fries, coleslaw, and lemon wedge.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",96.5313,96.3094,96.4202,608.7893
+000304.jpg,Colorful bowl of various cooked vegetables including lotus slices.,"thinly sliced meat carpaccio with arugula, cheese, and parmesan..",82.7525,85.3151,84.0143,0.0000
+000305.jpg,"Powdered sugar dusted French toast, soft and inviting.",sweet cannoli with powdered sugar and powdered sugar.,87.6085,84.6368,86.0970,32.0256
+000306.jpg,"Creamy, chunky soup in a bowl with a spoon.",crispy fish and chips with coleslaw and dipping sauce.,86.3570,88.7545,87.5394,0.2522
+000307.jpg,Layered purple and white dessert with a crunchy base.,sweet cannoli dusted with powdered sugar and powdered sugar.,85.4771,87.0317,86.2474,0.5554
+000308.jpg,"Savory stew, rice, corn, and plantains on green plate.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.0340,88.2086,87.6174,0.3524
+000309.jpg,Crispy fried seafood with sauce and lemon wedge.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",90.9147,91.5281,91.2204,13.6288
+000310.jpg,Falafel balls on a bed of chopped tomatoes.,fresh oysters on ice with lemon and red sauces.,86.4572,88.2734,87.3559,9.9084
+000311.jpg,"Caprese salad with fresh mozzarella, tomato, and basil.",assorted sushi and sashimi platter with ginger and wasabi.,86.4524,86.1193,86.2855,0.5263
+000312.jpg,"Sushi rolls topped with avocado, sesame, and shredded crab.",crispy fish and chips with coleslaw and sauce..,87.0427,88.1071,87.5717,0.5255
+000313.jpg,Fresh green salad with orange segments and walnuts.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",84.3112,84.8589,84.5842,0.5326
+000314.jpg,Stacked tomato and mozzarella with pesto on arugula.,fresh oysters on ice with lemon and dipping sauces.,86.2498,83.7352,84.9739,10.3489
+000315.jpg,Snails in shells with green herb sauce.,"grilled ribs, crispy fries, and a biscuit. fries..",85.5488,85.9006,85.7244,0.0000
+000316.jpg,"Chocolate dessert with cocoa powder, strawberries, and mint.",fresh oysters on ice with lemon and red sauce..,86.2996,88.8387,87.5507,0.5363
+000317.jpg,"Mexican dish with cheesy quesadillas, rice, and fresh salsa.","assorted cheeses, crackers, dried fruit, and a side of fruit.",87.2222,86.2882,86.7527,0.2554
+000318.jpg,Cold soba noodles served with assorted small accompaniments.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.3438,86.1265,86.2350,0.0000
+000319.jpg,Colorful ceviche with fresh cilantro and crunchy corn tortillas.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.4775,85.9295,86.6966,0.3064
+000320.jpg,"Golden eggs Benedict with hash browns, a classic breakfast.",crispy fish and chips with coleslaw and sauce..,86.2270,88.4281,87.3137,0.2076
+000321.jpg,"Saucy chicken wings in a wooden bowl, ready to enjoy.","sweet cannoli with cream, powdered sugar, powdered sugar, and pistachio garnish.",83.2909,87.0381,85.1233,0.0000
+000322.jpg,Loaded nachos topped with fresh vegetables and melted cheese.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",86.7401,87.3513,87.0446,0.5067
+000323.jpg,Delicious blueberry cheesecake slice with sauce and whipped cream.,rich chocolate cake with whipped cream and chocolate drizzle.,90.6404,89.8148,90.2257,31.1312
+000324.jpg,Sweet dessert generously dusted with powdered sugar and chocolate.,"grilled ribs, crispy fries, and a side of green salad.",85.3168,85.3619,85.3393,0.3649
+000325.jpg,Golden fried fish with crispy fries and dipping sauces.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",92.2531,95.5220,93.8591,213.1524
+000326.jpg,Toasted bread topped with fresh diced tomatoes and basil.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.5478,86.3628,86.4552,0.4265
+000327.jpg,Steamed mussels in a savory sauce with lemon.,crispy fish and chips with coleslaw and sauce..,87.7576,90.0133,88.8711,0.2789
+000328.jpg,Two crispy crab cakes with fries and applesauce.,crispy fried calamari with dipping sauce and dipping sauce..,88.2487,88.7478,88.4975,13.3250
+000329.jpg,"Assorted bruschetta with fresh tomato, mozzarella, and basil.","grilled ribs, crispy fries, coleslaw, and dipping sauces. fries.",86.3623,83.5550,84.9355,0.3728
+000330.jpg,Sweet fried dough balls dusted with powdered sugar.,"sweet cannoli with cream, powdered sugar. fries.",90.7025,89.7704,90.2340,87.0747
+000331.jpg,"Assortment of fried, roasted, and shelled dishes on wood.",fresh oysters on ice with lemon and red sauces.,85.9061,86.2392,86.0723,8.8429
+000333.jpg,Sliced marbled meat with green paste and fresh salad.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",87.7757,89.0548,88.4107,38.8681
+000334.jpg,"Couscous with curry sauce, sprouts, and fresh vegetables.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.0129,88.4684,88.2401,0.4069
+000335.jpg,Creamy yellow soup with visible chunks in white bowl.,crispy fish and chips with coleslaw and sauce..,85.9086,85.4500,85.6787,0.2436
+000336.jpg,"Seafood paella with mussels, squid, and lemon wedges.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.4995,88.0203,87.7591,0.3215
+000337.jpg,"Roasted chicken, large pasta stew, and fresh bread.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.7759,88.2882,87.5255,0.3341
+000338.jpg,Golden quesadilla wedges with a variety of dipping sauces.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.5443,88.3617,88.4529,78.7625
+000339.jpg,"Assorted sushi, fried rice, and stir-fried chicken.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",82.8225,86.0929,84.4261,0.2855
+000340.jpg,Quinoa base topped with vibrant green leafy vegetables.,crispy fish and chips with coleslaw and sauce..,85.0700,85.9595,85.5125,0.2119
+000341.jpg,Hearty red soup with cauliflower florets and zucchini chunks.,crispy fish and chips with coleslaw and sauce..,86.7934,84.8538,85.8126,0.5021
+000342.jpg,"Cheeseburger with melted cheese, crispy fries, and lettuce.",crispy fried calamari with dipping sauce and dipping sauce..,85.3164,86.3756,85.8427,14.7462
+000343.jpg,"Two large calzones, one with visible tomato sauce.",crispy fish and chips with coleslaw and lemon.,86.3698,87.5094,86.9359,0.2410
+000344.jpg,"Fried rice with green beans, mushrooms, and spring rolls.",fresh oysters on ice with lemon and sauce..,86.1433,87.9076,87.0165,0.6180
+000345.jpg,"Pasta, seared salmon, mixed vegetables, and a creamy soup.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.6286,87.8170,86.7090,0.2608
+000346.jpg,Fresh guacamole served in a stone molcajete bowl.,"grilled ribs, crispy fries, and a biscuit. fries..",85.4218,80.2357,82.7475,4.3147
+000347.jpg,"Japanese breakfast: rice, miso soup, and egg omelet.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.4748,86.9728,86.7231,0.2945
+000348.jpg,"Hearty stew with meat and potatoes, served with bread.",fresh oysters on ice with lemon and red sauces.,86.6685,88.7297,87.6870,1.0189
+000349.jpg,Fresh green salads and cooked protein on white plates.,"thinly sliced meat, arugula, parmesan, capers, capers, and cheese.",83.7185,86.3167,84.9977,0.2106
+000350.jpg,Elaborate spread with roasted meat and decorated savory cakes.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.4630,86.4333,85.9454,17.6777
+000351.jpg,Hearty white bean soup with herbs and crusty bread.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.4233,87.5680,87.4956,0.3611
+000352.jpg,"Grilled eggplant, zucchini, peppers, and sun-dried tomatoes.",fresh oysters on ice with lemon and lemon wedges..,83.4366,84.6932,84.0602,0.2600
+000353.jpg,"Roasted turkey, green beans, and carrots on a table.",fresh oysters on ice with lemon and red sauces.,86.4351,87.9172,87.1698,10.2777
+000354.jpg,"Sweet dates, golden flatbread, and sauces on plates.","grilled ribs, crispy fries, and a biscuit. bowl..",87.4569,88.7260,88.0868,0.2850
+000355.jpg,"Grilled meat, roasted potatoes, and colorful side dishes.",rich chocolate mousse topped with whipped cream and chocolate drizzle.,84.0799,87.4998,85.7558,0.3430
+000356.jpg,Fresh fruit tarts with assorted colorful toppings.,"thinly sliced meat, arugula, capers, cheese, and balsamic drizzle.",84.5567,85.6673,85.1084,0.0000
+000357.jpg,Warm tea and a small pastry on wooden table.,"grilled steak, golden fries, and ketchup. fries.",87.6381,87.0131,87.3245,0.2912
+000358.jpg,Golden omelette with fresh sliced cucumber salad.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.5189,85.5511,86.0323,0.0000
+000359.jpg,Burgers and fries served on metal trays.,crispy fish and chips with coleslaw and lemon.,86.1299,88.2951,87.1991,0.4137
+000360.jpg,"Colorful salad with pomegranate, avocado, citrus, and beans.",crispy fried calamari with dipping sauce and dipping sauce..,83.9352,84.9494,84.4392,0.5138
+000361.jpg,"Fried eggs with bright yellow, runny yolks.","sweet cannoli with cream, chocolate chips, and powdered sugar.",86.4668,83.6936,85.0576,0.1925
+000362.jpg,A bowl of ice cream with cream puffs and chocolate.,fresh oysters on ice with lemon and red sauce..,86.5025,86.0724,86.2869,27.1108
+000363.jpg,"Whole baked fish with tomatoes, olives, and lemon.",fresh oysters on ice with lemon and dipping sauces.,88.7443,89.9338,89.3351,0.6652
+000364.jpg,"Full breakfast plate with eggs, bacon, beans, potatoes, toast.","grilled ribs, crispy fries, and a fresh salad. platter.",87.9876,88.4840,88.2351,0.0000
+000365.jpg,Fresh green salad with tortellini pasta.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.4764,85.9341,85.7046,0.0000
+000366.jpg,"Dessert with sweet white and caramel drizzle, strawberry garnish.",sweet cannoli with chocolate chips and powdered sugar. fries.,87.5136,84.7529,86.1111,30.9654
+000367.jpg,"Grilling chicken, zucchini, bell peppers; raw marinated meat.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.7862,86.7090,86.2451,0.0000
+000368.jpg,"Assorted sushi, salads, and drinks in takeout containers.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.8390,88.8463,87.8312,0.3035
+000369.jpg,Powdered sugar-dusted pastries beside a cup of iced coffee.,sweet cannoli with chocolate chips and powdered sugar. fries.,87.7161,85.1890,86.4341,0.0000
+000370.jpg,"Sandwiches, salads, chicken wings, and beverages on picnic table.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",82.9770,86.4329,84.6697,0.2356
+000371.jpg,"Traditional Japanese meal set with rice, soup, and sides.","grilled ribs, crispy fries, and a fresh salad. platter.",87.4883,88.3369,87.9106,0.2799
+000372.jpg,Three fried eggs in oil with seasoning.,"sweet cannoli with cream, powdered sugar, powdered sugar.",85.7579,87.4170,86.5795,0.2319
+000373.jpg,"Meat, potatoes, and vibrant peppers in golden sunlight.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.1640,89.3938,87.7492,17.2849
+000374.jpg,Green rice with bright orange shredded carrots.,crispy fried calamari with dipping sauce and dipping sauce..,83.8153,87.7276,85.7268,0.1982
+000375.jpg,"Plates of stir-fry, crispy chips, and scrambled egg.",rich chocolate mousse in a white bowl. bowl.,86.3625,85.6236,85.9915,0.0000
+000376.jpg,"Noodles, meatballs, green beans, and shredded cheese.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.3441,89.5358,88.9359,0.3304
+000377.jpg,Chocolate drip cake with piped frosting and candy.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.3257,85.1487,85.7331,0.3079
+000378.jpg,"Fish fillets, steamed vegetables, and decorative breadstick.","grilled ribs, crispy fries, and a fresh salad. platter.",87.7030,86.8992,87.2992,0.2725
+000379.jpg,"Fluffy scrambled eggs and warm folded flatbreads, ready for breakfast.",crispy fried calamari with dipping sauce and dipping sauce.,84.6837,86.9222,85.7884,0.2708
+000380.jpg,"Savory fried rice with meat, cabbage, topped with egg.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.2422,89.1986,88.7178,11.7232
+000381.jpg,Golden flatbreads and creamy scrambled eggs on a simple tray.,crispy fried calamari with dipping sauce and dipping sauce.,84.0249,87.2844,85.6236,0.3574
+000382.jpg,Juicy cheeseburger with fresh toppings and a side of beans.,"sweet cannoli with cream, chocolate chips, and powdered sugar.",87.8389,86.9317,87.3830,0.5200
+000383.jpg,"Fresh fruit salad with grapes, peaches and small pastries.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.0402,85.9814,85.5082,0.4498
+000384.jpg,A lavish spread of various savory and sweet dishes.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.8890,87.1850,86.5321,0.3354
+000385.jpg,"Assorted pizza slices with tomato, zucchini, and cheese toppings.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",87.6535,88.5863,88.1174,0.5204
+000386.jpg,Fruit and chocolate skewer drizzled with rich chocolate sauce.,"grilled ribs, crispy fries, and a side of green salad.",86.1494,83.6617,84.8873,0.3286
+000387.jpg,"A feast of rice, meat, and fresh salads.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.4923,90.7564,89.0944,0.3671
+000388.jpg,White frosted cake slice with raspberry filling and sprinkles.,"grilled ribs, crispy fries, and a side of green salad.",85.1789,84.2685,84.7213,0.3091
+000389.jpg,"Seafood plate with shrimp, fish, broccoli, and potatoes.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",84.8696,88.5171,86.6550,0.4863
+000390.jpg,"Abundant spread of roasted meat, salads, and grilled dishes.",fresh oysters on ice with lemon and sauce..,84.1992,85.8055,84.9947,0.3354
+000391.jpg,"Toasted sandwich with melted cheese, ham, egg, and fries.",crispy fish and chips with coleslaw and sauce..,85.6169,86.6654,86.1380,0.6256
+000392.jpg,"Freshly chopped vegetables, corn, and ingredients on a counter.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",83.1641,87.0490,85.0622,0.2571
+000393.jpg,"Plate of potato wedges, lentils, carrots, and mixed greens.","grilled ribs, crispy fries, coleslaw, and a side of salsa.",87.8384,87.7124,87.7754,8.6092
+000394.jpg,"Whole fish baked with potatoes, carrots, and colorful peppers.","glazed ribs, crispy fries, and fresh coleslaw.",86.9968,87.6274,87.3110,0.3367
+000395.jpg,"Hearty stew, fresh salads with eggs, and green olives.",fresh oysters on ice with lemon and red sauces.,87.5550,87.8485,87.7015,9.1656
+000396.jpg,"Breaded fish fillet with pasta, broccoli, and a lemon.",crispy fish and chips with coleslaw and sauce..,87.7787,88.8236,88.2981,18.3556
+000397.jpg,Salmon fillet with potato balls and a side salad.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.2074,89.2054,88.1951,0.3748
+000398.jpg,Three perfectly fried eggs on a white plate.,"grilled steak, crispy fries, and a fresh salad. bowl.",88.8551,89.2483,89.0513,5.5256
+000399.jpg,Small round pastries cooking on a griddle.,"grilled ribs, crispy fries, and ketchup on a plate.",87.0611,88.9412,87.9911,22.3771
+000400.jpg,Stuffed zucchini boat with savory meat and vegetables.,crispy fish and chips with coleslaw and sauce..,85.3857,85.0934,85.2393,0.5671
+000401.jpg,"Shrimp, grains, and colorful mixed vegetables on a plate.",crispy fish and chips with coleslaw and sauce..,84.9623,87.6767,86.2982,0.3551
+000402.jpg,Assorted cheese board with fruit and two wine glasses.,"grilled ribs, crispy fries, coleslaw, and a side of salsa.",85.7763,86.3161,86.0453,0.2736
+000403.jpg,"Grilled wrap, toasted burger, and crispy golden fries.",crispy fish and chips with coleslaw and sauce..,87.1271,88.7643,87.9381,14.9214
+000404.jpg,"Foamy latte, crispy fried onions, and a blurry waffle.",rich chocolate cake slice with whipped cream and chocolate drizzle.,84.3508,84.5004,84.4255,0.2866
+000405.jpg,"Cereal, toast, muffins, coffee, and juice on a tray.",crispy fried calamari with dipping sauce and dipping sauce..,82.4606,84.7716,83.6001,0.2722
+000406.jpg,"Fruit salad with strawberries, grapes, melon, and bananas.","assorted cheeses, crackers, dried fruit, and fresh fruit cup.",87.6945,89.5135,88.5947,0.2595
+000407.jpg,"Steamed broccoli, purple rice, and turmeric tofu stew.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.8762,88.2059,87.5360,0.2920
+000408.jpg,Sizzling plate with stir-fried dish and various sauces.,fresh oysters on ice with lemon and red sauces.,87.4791,87.0959,87.2871,34.9080
+000409.jpg,"Couscous with meat, chickpeas, and mixed root vegetables.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.3235,87.6480,87.4854,0.3314
+000410.jpg,"Creamy macaroni with peas, grated cheese, and fresh herbs.",crispy fish and chips with coleslaw and sauce..,87.9099,86.5890,87.2445,0.5853
+000411.jpg,"Chicken with roasted vegetables, mashed potatoes, and sauce.",crispy fish and chips with coleslaw and sauce..,87.4925,90.3869,88.9162,0.6955
+000412.jpg,"Grilled skewers on banana leaf, some slightly charred.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.0458,85.5591,85.8018,0.0000
+000413.jpg,"Seafood with colorful peppers, avocado, and yellow sauce.","crispy fried fish, golden fries, coleslaw, and dipping sauce.",88.9742,90.2785,89.6216,14.4271
+000414.jpg,A table laden with multiple dishes and various foods.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.0852,85.3617,85.2233,0.2870
+000415.jpg,"Hearty breakfast with omelet, pancakes, and fruit sauce.","thinly sliced red meat, capers, parmesan, parmesan, parmesan, and cheese.. toast.",82.3760,85.8311,84.0681,0.1478
+000416.jpg,Colorful macarons neatly arranged in display trays.,"sweet cannoli filled with cream, powdered sugar..",87.0100,85.6730,86.3363,0.0000
+000417.jpg,"Leftover pizza slices, coffee cups, water bottle.","grilled ribs, crispy fries, coleslaw, and a side of salsa.",85.7738,86.2217,85.9972,0.0000
+000418.jpg,"Plates with potatoes, meat, and beet salad.","thinly sliced meat with arugula, cheese, and balsamic drizzle.",86.1521,90.4376,88.2428,0.5247
+000419.jpg,"Roasted turkey, fresh salad, and bread rolls.",fresh oysters on ice with lemon and sauce..,85.1791,87.3133,86.2330,8.7937
+000420.jpg,Hearty brown soup with noodles and lentils.,crispy fish and chips with coleslaw and sauce..,87.0845,89.2941,88.1755,0.6944
+000421.jpg,"Picnic spread: burgers, wraps, fruit skewers, and chips.",crispy fish and chips with coleslaw and dipping sauce.,86.1702,88.3441,87.2436,0.3062
+000422.jpg,Grilled chicken drumsticks and thighs cooking on a griddle.,sweet cannoli with chocolate chips and chocolate chips..,84.5876,85.6209,85.1011,0.3011
+000423.jpg,"Large saucy burrito with vegetables, served with guacamole.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.7289,86.4154,86.5719,0.0000
+000424.jpg,"Melted, bubbly cheese topping a rich, brown soup.","sweet cannoli with cream, powdered sugar, and pistachio garnish. fries.",85.1514,84.0594,84.6018,0.0000
+000425.jpg,Sliced cooked meat with a savory sauce on a plate.,golden fried fish and chips with coleslaw. fries.,87.8322,87.4274,87.6293,0.2622
+000426.jpg,"Golden pancakes with butter, sliced bananas, and coffee.","grilled ribs, crispy fries, coleslaw, and a side of salsa.",86.5595,88.5244,87.5309,0.2985
+000427.jpg,"Steamed potatoes with herbs, tomato, and green pepper.","grilled ribs, crispy fries, and a side of green salad.",88.7387,88.2923,88.5149,9.7971
+000428.jpg,"Gnocchi with tomato sauce, salad, bread, and soup.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.8161,89.0243,88.4161,0.3671
+000429.jpg,Guacamole with shredded vegetables and fresh lime wedges.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.3907,85.0374,85.7087,0.3622
+000430.jpg,"Chicken skewers, sausages, cheese slices, and potatoes.",crispy fish and chips with coleslaw and lemon..,84.6254,87.4124,85.9963,0.3517
+000431.jpg,Fried fish and fries on a white plate.,fresh oysters on ice with lemon and lemon wedge..,83.4594,87.7861,85.5681,11.8736
+000432.jpg,"Sushi rolls with rice, sesame seeds, vegetables, and wasabi.",crispy fish and chips with coleslaw and lemon.,87.6279,88.3919,88.0082,0.6096
+000433.jpg,Pink macaron with raspberry and elegant red petal garnish.,"sweet cannoli with cream, powdered sugar, powdered sugar.",87.7488,85.7559,86.7409,0.1763
+000434.jpg,Table spread with various Asian dishes and drinks.,"grilled ribs, crispy fries, coleslaw, and a biscuit. bowl.",85.6307,87.2040,86.4102,0.2701
+000435.jpg,Spaghetti noodles generously covered with rich red sauce.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.5720,87.4642,87.0158,0.0000
+000436.jpg,"Rice with meat, julienned vegetables, bread, and banana.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.2601,87.9897,87.6234,0.3374
+000437.jpg,Fresh submarine sandwich with vegetables and a drink.,fresh oysters on ice with lemon and sauce..,86.9080,89.9289,88.3926,0.6800
+000438.jpg,Grilled fish fillet served with diced tomatoes and lemon.,crispy fish and chips with coleslaw and lemon.,89.7522,91.3050,90.5220,80.1668
+000439.jpg,Two hot dogs with generous sauerkraut in buns.,crispy fish and chips with coleslaw and lemon.,87.4443,86.5084,86.9738,0.2294
+000440.jpg,Salmon and rice porridge with fresh herbs.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.2596,87.5467,86.8984,0.4018
+000441.jpg,A spread of Asian dishes including fish and greens.,fresh oysters on ice with lemon and sauces. fries.,85.7834,85.8732,85.8283,0.3856
+000442.jpg,"Breakfast: egg, hash browns, kiwi, oranges, and coffee.",crispy fish and chips with coleslaw and dipping sauce.,85.3297,86.5240,85.9227,0.3153
+000443.jpg,Steaming clay pot with green bean and tomato stew.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.4049,86.1399,85.7708,0.3035
+000444.jpg,Vibrant platter of assorted fresh fruits.,"thinly sliced meat carpaccio with arugula, cheese, and parmesan..",81.5933,84.9504,83.2380,0.0000
+000445.jpg,Spaghetti with clams on a white plate.,"grilled ribs, crispy fries, and a side of green salad.",86.3874,88.7323,87.5442,5.5737
+000446.jpg,"Boiled egg, radish, and assorted fried items.",crispy fish and chips with coleslaw and lemon.,86.1181,88.3466,87.2181,0.3739
+000447.jpg,Powdered sugar dusted cannoli with creamy filling.,"sweet cannoli filled with cream, powdered sugar. bowl.",91.8977,88.6219,90.2301,38.5355
+000448.jpg,"Sandwich with fried egg, cheese, and french fries.",crispy fish and chips with coleslaw and sauce..,86.7272,89.4448,88.0650,0.6876
+000449.jpg,Crisp green lettuce salad with creamy dressing.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.8827,89.3746,89.1280,0.0000
+000450.jpg,"Golden waffle with whipped cream, strawberries, and blueberries.",rich chocolate cake with whipped cream and chocolate drizzle. bowl..,87.3931,89.8238,88.5918,47.6432
+000451.jpg,"Golden waffle with powdered sugar, bacon, and fluffy eggs.",crispy fish and chips with coleslaw and sauce..,85.3760,87.3284,86.3412,0.5385
+000452.jpg,Glazed fish fillet with white purée on a brown plate.,"sweet cannoli with cream, chocolate chips, and powdered sugar.",85.8749,84.3632,85.1123,0.2254
+000453.jpg,"Escargots in a black pan with green sauce, bread.","grilled ribs, crispy fries, and a fresh salad. platter.",86.2401,85.1172,85.6750,4.4678
+000454.jpg,Seared scallops on green lettuce with sliced red peppers.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.9242,86.9400,86.4291,19.3509
+000455.jpg,Fresh green salad with orange slices and pumpkin seeds.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.2206,86.6487,86.4341,0.3700
+000456.jpg,"Colorful macarons in red, blue, and green, in packaging.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",85.2973,86.1089,85.7012,0.2803
+000457.jpg,Grilled sandwich with visible lettuce and crispy bread marks.,rich chocolate cake slice with whipped cream and chocolate drizzle.,85.1268,85.9613,85.5420,0.5520
+000458.jpg,"Creamy curry, rice, and naan bread.","sweet cannoli with cream, powdered sugar. bowl.",87.8568,88.5241,88.1892,0.0000
+000459.jpg,"Thinly sliced meat, salad, croutons, and white fish.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",89.0040,90.1332,89.5650,0.3587
+000460.jpg,Sushi rolls with soy sauce and pickled ginger.,crispy fish and chips with coleslaw and lemon.,88.9298,89.6974,89.3120,0.6251
+000461.jpg,"Spicy chicken wings with celery, carrots, and dipping sauce.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",90.5611,91.1935,90.8762,51.8166
+000462.jpg,"Rice bowl with egg, mushrooms, sprouts, and vegetables.","grilled ribs, crispy fries, and a side of green salad.",86.8197,87.5058,87.1614,0.3692
+000463.jpg,Creamy yellow soup with fresh green herb garnish.,crispy fish and chips with coleslaw and lemon.,88.3249,87.3433,87.8313,0.3297
+000464.jpg,Crispy fried calamari with two dipping sauces and lemon.,fresh oysters on ice with lemon and dipping sauces.,92.5571,90.5459,91.5405,30.9167
+000465.jpg,"Fried patties topped with poached eggs, drizzled sauce, and greens.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",89.1882,86.8237,87.9901,0.3174
+000466.jpg,Toasted bruschetta topped with diced tomatoes and fresh basil.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.5350,84.0724,85.2859,0.4046
+000467.jpg,"Glazed ribs, crinkle fries, and creamy coleslaw on a plate.",crispy fish and chips with coleslaw and sauce..,89.4322,89.1823,89.3071,65.1316
+000468.jpg,Dark curry and white rice on a simple meal tray.,crispy fish and chips with coleslaw and sauce..,85.6659,87.8451,86.7418,0.3147
+000469.jpg,Glazed chicken wings with a vibrant red sauce.,crispy fish and chips with coleslaw and lemon.,87.9280,90.0043,88.9540,0.3428
+000470.jpg,Fresh green salad with yellow fruit and pistachios.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",85.7452,87.0974,86.4160,0.6181
+000471.jpg,"Elegant beet salad with microgreens, nuts, and creamy dressing.",fresh oysters on ice with lemon and red sauces.,87.5611,86.8450,87.2016,0.5613
+000472.jpg,Mixed green salad with many bright red tomatoes.,"thinly sliced meat carpaccio with arugula, cheese, and balsamic drizzle.",83.2182,85.0736,84.1357,0.1513
+000473.jpg,Golden wrap drizzled with creamy and green sauces.,crispy golden french fries served with a side of white sauce.,88.2648,88.8127,88.5379,0.2877
+000474.jpg,Savory fried rice with a few green peas.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.4071,89.1124,88.2515,11.4077
+000475.jpg,Layered chocolate cake with creamy filling and glossy ganache.,crispy fish and chips with coleslaw and sauce..,85.7438,85.8765,85.8101,0.5530
+000476.jpg,"Pile of crispy, vibrant orange chicken wings.",crispy pan - fried dumplings with a side of red sauce..,86.3982,89.3631,87.8556,6.6918
+000477.jpg,"Pizza slice with cheesy, green herb topping.","grilled ribs, crispy fries, and a biscuit. fries..",86.8556,85.7246,86.2864,0.0000
+000478.jpg,White meat with glazed onions and savory sauce.,crispy fried fish and chips with dipping sauces.,88.3240,88.6629,88.4931,0.8005
+000479.jpg,"Sweet dumpling in a rich, dark syrupy sauce.",sweet cannoli with chocolate chips and powdered sugar. fries.,87.4150,85.6894,86.5436,0.0000
+000480.jpg,"Two golden-brown, crispy fried pastries in a basket.",crispy fried calamari with dipping sauce and dipping sauce..,85.0615,89.5304,87.2388,54.8234
+000481.jpg,"Red carpaccio with fresh sprouts, red onion, and sesame.",crispy fish and chips with coleslaw and lemon..,86.0565,86.6351,86.3448,0.5028
+000482.jpg,Chocolate bar dessert with ice cream and elegant sauce drizzle.,rich chocolate cake slice with whipped cream and chocolate drizzle.,92.2476,90.4401,91.3349,73.8514
+000483.jpg,"Chicken stir-fry with vegetables, onions, and rich savory sauce.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.4647,88.6994,88.5819,0.3795
+000484.jpg,"Fried fish, crispy fries, green peas, and creamy sauce.",crispy golden french fries served in a paper - lined basket.,88.3463,87.2564,87.7980,11.9883
+000485.jpg,"Golden fried fish fillets, potato wedges, lemon, and sauce.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",90.4409,90.8435,90.6418,11.6691
+000486.jpg,"Noodles topped with lacy egg, sprouts, and chives.","crispy fried fish, golden fries, coleslaw, and dipping sauces.",87.6037,87.4551,87.5293,0.3470
+000487.jpg,Rich brown soup with cream and fresh chives.,crispy fish and chips with coleslaw and lemon.,88.1716,88.6032,88.3869,0.8437
+000488.jpg,Glazed ribs and golden crispy french fries.,fresh oysters on ice with lemon and lemon wedge..,83.3613,86.2548,84.7834,0.3594
+000489.jpg,"Golden pastry pieces, drizzled with sweet syrup.",sweet cannoli with chocolate chips and powdered sugar. fries.,87.7117,86.0458,86.8707,34.7503
+000490.jpg,Crispy fried fish and golden fries with dipping sauces.,crispy fish and chips with coleslaw and sauce..,91.8092,92.9365,92.3694,49.7359
+000491.jpg,"Fresh spring rolls with shrimp, greens, and peanut sauce.",golden fried fish and chips with coleslaw. fries..,87.5845,89.3635,88.4651,0.5560
+000492.jpg,Crispy fried calamari served with colorful garnishes and sauces.,"glazed ribs, crispy fries, and fresh coleslaw.",88.0206,86.7730,87.3923,0.3644
+000493.jpg,Chilled soba noodles on a bamboo mat with dipping sauce.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",88.1559,88.9926,88.5723,20.6353
+000494.jpg,"Assorted sandwiches with meat, tomato, egg, and cucumber fillings.","sweet cannoli with cream, powdered sugar. bowl.",86.6831,85.1011,85.8848,0.2214
+000495.jpg,"Crispy falafel balls with sesame seeds, pickles, and sauce.",crispy fish and chips with coleslaw and sauce..,92.0091,90.2283,91.1100,0.5516
+000496.jpg,Two eggs benedict topped with rich hollandaise sauce.,crispy fish and chips with coleslaw and sauce..,88.4005,86.9716,87.6802,0.2721
+000497.jpg,Decadent chocolate mousse with whipped cream and chocolate shavings.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.8843,84.6414,85.7482,0.3205
+000498.jpg,Golden fried chicken wings with celery and creamy dip.,crispy fried calamari with dipping sauce and dipping sauce..,88.2473,88.8153,88.5304,12.4705
+000499.jpg,Crispy fried fish and fries with dipping sauces.,"thinly sliced meat with arugula, cheese, and balsamic drizzle.",84.8979,86.3170,85.6016,0.6819
+000500.jpg,Fresh tomato and mozzarella salad with toasted bread.,"crispy fried fish, golden fries, coleslaw, and dipping sauces.",86.1740,85.3459,85.7580,0.4193
