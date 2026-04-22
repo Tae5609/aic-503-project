@@ -153,7 +153,7 @@ progress.
 
 ---
 
-## 7. Evaluating generated captions
+## 6. Evaluating generated captions
 
 `evaluate_captions.py` takes the CSV produced by `generate.py` and reports:
 
@@ -172,7 +172,7 @@ A per-image breakdown is saved next to the input CSV as
 
 ---
 
-## 8. File overview
+## 7. File overview
 
 | file                   | purpose                                                          |
 | ---------------------- | ---------------------------------------------------------------- |
@@ -186,25 +186,3 @@ A per-image breakdown is saved next to the input CSV as
 | `eda.py`               | quick word-frequency plot of training captions                   |
 | `generated/`           | prediction CSVs from the baseline / pretrained / improved models |
 | `requirements.txt`     | pinned Python dependencies                                       |
-
----
-
-## 10. End-to-end example
-
-```bash
-# 1. Train
-python train.py \
-    --train_csv ../dataset/train_label.csv \
-    --val_csv   ../dataset/val_label.csv \
-    --train_image_dir ../dataset/train \
-    --val_image_dir   ../dataset/val \
-    --model_path ./checkpoints/baseline.pt \
-    --log_path   ./checkpoints/baseline_log.json
-
-# 2. Generate captions on the test set
-#    (edit MODEL_CONFIG in generate.py to point at ./checkpoints/baseline.pt)
-python generate.py
-
-# 3. Score the predictions
-python evaluate_captions.py --csv ./generated/improvement.csv
-```
