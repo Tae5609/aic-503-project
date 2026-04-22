@@ -101,14 +101,7 @@ python3 generate.py
 Captions are written to `labels.csv`. See `labelling-pipeline/README.md` for
 full instructions.
 
-## 3. (Optional) Label verification
-
-`label-verification/Label Verification.xlsx` tracks the manual QA pass over the
-generated captions. `label-verification/Images/` holds the images that were
-reviewed. There's nothing to run here — it documents how the CSVs in
-`dataset/` were cleaned up before training.
-
-## 4. Train and evaluate the captioning model
+## 3. Train and evaluate the captioning model
 
 All model commands run from `image-captioning-efficientnet/`. Install the
 pinned dependencies once:
@@ -121,7 +114,7 @@ pip install -r requirements.txt
 python -c "import nltk; nltk.download('punkt')"
 ```
 
-### 4a. Train from scratch
+### 3a. Train from scratch
 
 ```bash
 python train.py \
@@ -134,7 +127,7 @@ python train.py \
     --device          cuda
 ```
 
-### 4b. Generate captions for the test set
+### 3b. Generate captions for the test set
 
 Edit the `MODEL_CONFIG` block at the top of
 `image-captioning-efficientnet/generate.py` to point at the checkpoint you
@@ -146,7 +139,7 @@ python generate.py
 
 Predictions are written to `./generated/improvement.csv` by default.
 
-### 4c. Score the predictions
+### 3c. Score the predictions
 
 ```bash
 python evaluate_captions.py --csv ./generated/improvement.csv
