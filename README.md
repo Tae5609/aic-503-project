@@ -80,8 +80,6 @@ dataset/
 └── test_label.csv
 ```
 
----
-
 ## 2. (Optional) Regenerate captions with the labelling pipeline
 
 Skip this step unless you want to label new raw images from scratch — the
@@ -103,16 +101,12 @@ python3 generate.py
 Captions are written to `labels.csv`. See `labelling-pipeline/README.md` for
 full instructions.
 
----
-
 ## 3. (Optional) Label verification
 
 `label-verification/Label Verification.xlsx` tracks the manual QA pass over the
 generated captions. `label-verification/Images/` holds the images that were
 reviewed. There's nothing to run here — it documents how the CSVs in
 `dataset/` were cleaned up before training.
-
----
 
 ## 4. Train and evaluate the captioning model
 
