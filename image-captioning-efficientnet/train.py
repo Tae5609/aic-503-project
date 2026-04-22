@@ -209,8 +209,8 @@ def main():
     parser.add_argument("--embedding_dim", type=int, default=512)
     parser.add_argument("--tokenizer", type=str, default="bert-base-uncased")
     parser.add_argument("--max_seq_len", type=int, default=128)
-    parser.add_argument("--encoder_layers", type=int, default=3)
-    parser.add_argument("--decoder_layers", type=int, default=6)
+    parser.add_argument("--encoder_layers", type=int, default=6)
+    parser.add_argument("--decoder_layers", type=int, default=12)
     parser.add_argument("--num_heads", type=int, default=8)
     parser.add_argument("--dropout", type=float, default=0.1)
 
