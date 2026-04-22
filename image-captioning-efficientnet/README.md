@@ -5,9 +5,7 @@ Image captioning model for food images. The encoder uses a pretrained
 layers, and the decoder is a Transformer that generates captions tokenised with
 a BERT tokenizer (`bert-base-uncased`).
 
-This directory contains everything needed to train from scratch, finetune from a
-pretrained checkpoint, generate captions for a test set, and evaluate the
-generated captions with BLEU, BERTScore, and CIDEr.
+This directory contains everything needed to train, generate captions for a test set, and evaluate the generated captions with BLEU, BERTScore, and CIDEr.
 
 Note: this directory was cloned from tranquoctrinh/Image-Captioning-EfficientNet-Transformer and been modify
 
